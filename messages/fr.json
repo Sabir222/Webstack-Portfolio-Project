@@ -1,0 +1,528 @@
+{
+  "Index": {
+    "title": "Bonjour le monde"
+  },
+  "Navbar": {
+    "home": "Accueil",
+    "services": "Lessons",
+    "gallery": "Galerie",
+    "blog": "Blog",
+    "about": "À propos",
+    "contact": "Contact"
+  },
+  "Team": {
+    "h1": "Équipe",
+    "h2": "Rencontrez notre équipe",
+    "h3": "Connectez-vous avec notre équipe talentueuse sur les médias sociaux pour rester inspiré et informé.",
+    "role1": "Coach de kitesurf"
+  },
+  "AboutUsContent": {
+    "h1": "Notre parcours",
+    "h2": "Pourquoi nous?",
+    "h3": "Apprends le Kitesurf et le Wing Foil à Dakhla",
+    "p1": "Apprenez le kitesurf ou le wing foil à Dakhla avec Blüboarding. Nos instructeurs certifiés IKO enseignent ces sports en plusieurs langues.",
+    "p2": "Rejoignez plus de 350 élèves qui ont appris à profiter du vent pour des souvenirs inoubliables. Nous faisons de l'apprentissage un moment amusant pour les débutants et les avancés. Venez avec votre envie d'aventure !",
+    "b1": "RÉSERVER UN COURS",
+    "b2": "EN SAVOIR PLUS"
+  },
+  "ContactForm": {
+    "fullName": "Nom complet"
+  },
+  "ContactInfo": {
+    "t1": "Numéro de téléphone",
+    "t2": "Emplacement",
+    "t3": "E-mail",
+    "address": "Dakhla, Maroc"
+  },
+  "Footer": {
+    "p1": "Blüboarding, Découvrez le plaisir des sports nautiques à Dakhla, au Maroc.",
+    "p2": "Liens utiles",
+    "home": "Accueil",
+    "services": "Lessons",
+    "gallery": "Galerie",
+    "blog": "Blog",
+    "about": "À propos",
+    "contact": "Contact"
+  },
+  "HeroImage": {
+    "h1": "Laissez-vous porter par le vent.",
+    "h2": "BLÜBOARDING",
+    "h3": "DAKHLA",
+    "b1": "RÉSERVER UN COURS"
+  },
+  "Lessons": {
+    "h1": "leçons",
+    "h2": "Apprenez dès aujourd'hui !",
+    "h3": "Choisissez l'activité que vous aimez et commençons ensemble à nous amuser.",
+    "t1": "Cours Privés",
+    "t2": "Cours de Surf",
+    "t3": "Cours Collectifs",
+    "t4": "Go Events",
+    "t5": "Wingfoil",
+    "d1": "Get personal, one-on-one kitesurfing instruction in Dakhla. Our individual lessons ensure you master this thrilling sport.",
+    "d2": "Learn to surf in Dakhla with confidence. Our beginner to advanced surf lessons ensure anyone can shred the waves.",
+    "d3": "Commencez votre aventure en kitesurf avec nos cours en groupe à Dakhla. Rejoignez la communauté du kitesurf et profitez du vent ensemble !",
+    "d4": "Rejoignez nos camps de kitesurf et wingfoil d'une semaine à Dakhla. Réservez maintenant pour une aventure océanique inoubliable !",
+    "d5": "Essayez le wing foil à Dakhla avec nos guides experts. Glissez sur une planche hydrofoil propulsée par une aile à main pour une aventure épique !",
+    "b1": "Réserver."
+  },
+
+  "SelectLanguage": {
+    "language": "FR"
+  },
+  "Plans": {
+    "heading": "Nos Offres",
+    "subheading": "Découvrez Nos Forfaits Tout Compris",
+    "description": "Explorez nos forfaits pour une retraite de kitesurf complète. Des séjours confortables aux leçons passionnantes et à la découverte de la ville, nous avons simplifié votre escapade.",
+    "s1": "Transport depuis l'aéroport",
+    "s2": "Cours privé de kitesurf ou wingfoil au choix",
+    "s3": "Sessions de surf pendant les journées sans vent",
+    "s4": "Hébergement en chambre double avec petit déjeuner inclus",
+    "s5": "Randonnée au choix au coucher de soleil (Quad, Cheval ou Chameau)",
+    "s6": "Visite des lieux touristiques de la région ou soirée BBQ avec notre équipe",
+    "s7": "Transport depuis l’aéroport",
+    "s8": "X nuits d'hébergement dans un logement familial",
+    "s9": "Cours collectif de kitesurf ou wingfoil au choix",
+    "s10": "Randonnée au choix au coucher de soleil (Quad, Cheval ou Chameau)",
+    "s11": "Session de surf pendant les journées sans vent",
+    "s12": "Visite des lieux touristiques de la région ou soirée BBQ avec notre équipe",
+    "s13": "Transport depuis l’aéroport",
+    "s14": "X nuits d'hébergement dans une chambre vue sur océan (petit déjeuner inclus)",
+    "s15": "Cours semi privé de kitesurf ou wingfoil au choix",
+    "s16": "Randonnée au choix au coucher de soleil (Quad, Cheval ou Chameau)",
+    "s17": "Soirée de dégustation de plats locaux dans un restaurant côtier",
+    "s18": "Massage en couple dans un spa réputé pour une détente absolue"
+  },
+  "QandA": {
+    "title": "Questions Fréquemment osées",
+    "q1": "Quelle est la saison à Dakhla ?",
+    "q2": "Est-ce que je peux apprendre le kitesurf ou la wingfoil, même si je n'ai aucune expérience préalable ?",
+    "q3": "À quel âge puis-je commencer à apprendre le kitesurf ?",
+    "q4": "Quel équipement dois-je apporter pour les cours ?",
+    "q5": "Combien de temps faut-il pour apprendre la wing ou le kitesurf ?",
+    "q6": "Les cours sont-ils assurés par des instructeurs certifiés ?",
+    "q7": "Que faire s'il n'y a pas de vent ?",
+    "q8": "Acceptez-vous les paiements en ligne ?",
+    "q9": "Comment annuler ma réservation ?",
+    "r1": "La saison à Dakhla pour pratiquer le kitesurf est principalement d'avril à septembre. Pendant ces mois, vous pouvez profiter de conditions de vent idéales pour la pratique de ce sport. Mais il faut savoir que il est toujours possible de kiter toute l'année.",
+    "r2": "Oui, absolument ! Notre école est spécialisée dans l'enseignement aux débutants. Nos instructeurs expérimentés vous guideront à travers les étapes nécessaires pour acquérir les bases en toute sécurité.",
+    "r3": "L'âge minimum recommandé pour prendre des cours de kitesurf est généralement de 12 ans. Cependant, chaque personne est différente, et nous évaluons la maturité et les compétences individuelles avant d'accepter un élève plus jeune.",
+    "r4": "Nous fournissons tout l'équipement nécessaire, y compris les ailes, les harnais, les planches, les combinaisons et les casques de protection. Vous devez simplement apporter votre maillot de bain, une serviette et de la crème solaire.",
+    "r5": "La durée nécessaire pour apprendre le kitesurf dépend de plusieurs facteurs, tels que votre condition physique, votre aptitude à l'apprentissage et les conditions météorologiques. Généralement, un cours de plusieurs jours est recommandé pour acquérir les bases et gagner en confiance.",
+    "r6": "Oui, tous nos instructeurs sont certifiés par l'IKO (International Kitesurfing Organization). Votre sécurité est notre priorité absolue.",
+    "r7": "Si les conditions météorologiques ne nous permettent pas de pratiquer le kitesurf en raison d'un faible vent, nous proposons des alternatives telles que des cours de surf.",
+    "r8": "Oui, nous acceptons les paiements en ligne. Vous pouvez effectuer votre réservation et régler les frais de cours sur notre site web sécurisé.",
+    "r9": "Si vous devez annuler votre réservation, veuillez nous contacter dès que possible par téléphone ou par e-mail. Veuillez noter que des frais d'annulation peuvent s'appliquer en fonction de notre politique d'annulation."
+  },
+  "Kitecol1": {
+    "t": "Privés",
+    "p": "à partir de €40",
+    "b": "Réservez"
+  },
+  "Kitecol2": {
+    "t": "Groupe",
+    "p": "à partir de €30",
+    "b": "Réservez"
+  },
+  "Kitecol3": {
+    "t": "Semi-Privés",
+    "p": "à partir de €20",
+    "": "Réservez"
+  },
+  "Surfcol1": {
+    "t": "Privés",
+    "p": "à partir de €30",
+    "b": "Réservez"
+  },
+  "Surfcol2": {
+    "t": "Semi-Privés",
+    "p": "à partir de €25",
+    "b": "Réservez"
+  },
+  "Surfcol3": {
+    "t": "Groupe",
+    "p": "à partir de €15",
+    "b": "Réservez"
+  },
+  "Windcol1": {
+    "t": "Privés",
+    "p": "à partir de €50",
+    "b": "Réservez"
+  },
+  "Windcol2": {
+    "t": "Semi-Privés",
+    "p": "à partir de €40",
+    "b": "Réservez"
+  },
+  "Windcol3": {
+    "t": "Groupe",
+    "p": "à partir de €30",
+    "b": "Réservez"
+  },
+  "row1": {
+    "r": "Etudients",
+    "s1": "1",
+    "s2": "2",
+    "s3": "2-3"
+  },
+  "row2": {
+    "r": "Attention personnelle",
+    "s1": "Très personnalisée",
+    "s2": "Personnalisé",
+    "s3": "Limité"
+  },
+
+  "row3": {
+    "r": "Rythme d'apprentissage",
+    "s1": "Personnalisé",
+    "s2": "Flexible",
+    "s3": "Modéré"
+  },
+  "row4": {
+    "r": "Flexibilité de l'horaire",
+    "s1": "Flexible",
+    "s2": "Flexible",
+    "s3": "Fixe"
+  },
+  "row5": {
+    "r": "Le progrès",
+    "s3": "Modéré",
+    "s2": "Rapide",
+    "s1": "Plus rapide"
+  },
+  "row6": {
+    "r": "Sécurité",
+    "s1": "Élevé",
+    "s2": "Élevé",
+    "s3": "Élevé"
+  },
+  "row7": {
+    "r": "Personnalisation",
+    "s1": "Entièrement personnalisé",
+    "s2": "Sur mesure",
+    "s3": "Général"
+  },
+  "CompareTitle": {
+    "title": "Comparer les forfaits"
+  },
+  "LessonPage": {
+    "title": "Plans et tarifs",
+    "heading": "Nos leçons",
+    "description": "Apprends le Kite, le Surf et le Wingfoil avec nos profs sympas. Des cours fun pour débutants comme champions. T'inquiète pas, on trouve le cours qui te va. Saute à l'eau, éclate-toi et progresse vite avec nos supers moniteurs !"
+  },
+  "aboutPage": {
+    "heading": "À propos de nous",
+    "description": "On est Blüboarding  Dakhla. On se déplace pour trouver les meilleurs spots - le lagon tout lisse ou les vagues de l'océan. Kitesurf, Wingfoil, et plus encore. Ce que t'aimes, on le rend fun. Viens avec nous !",
+    "heading2": "Rencontrez-nous à Dakhla",
+    "text": "Du soleil et le lagon qui te chuchote à l'oreille ! Bienvenue chez Blüboarding, où les sports d'eau c'est pas que des cours, mais des aventures fun avec les potes et la famille. On est une équipe de joyeux drilles, on vole sur l'eau transparente avec les vents constants, tope-là et sourires à gogo. Ici, pas de salles de classe barbantes, que du bon temps avec des profs au top qui parlent comme toi et qui kiffent l'eau autant que toi."
+  },
+  "KiteLessonsPrivate": {
+    "title": "Explorez le kitesurf avec nos forfaits adaptés à votre style et niveau. Optez pour nos cours spécialisés pour une expérience immersive et enrichissante.",
+    "price": "à partir de €40",
+    "t": "Cours Privés",
+    "d1": "Les cours individuels sont idéaux pour les personnes qui recherchent un enseignement particularisé, offrant une attention dédiée de la part de l'instructeur et un contenu pédagogique adapté à chaque niveau.",
+    "t0": "Liste de Prix",
+    "d01": "1h (sans matériel)/€40",
+    "d02": "1h / €60",
+    "d03": "2h / €120",
+    "d04": "4h / €230",
+    "d05": "6h / €330",
+    "d06": "8h / €420",
+    "d07": "10h / €500",
+    "t1": "Durée d'une Session",
+    "d11": "2 heures",
+    "t2": "Sessions Additionnelles",
+    "d21": "Possibilité d'ajouter des sessions supplémentaires sur place selon les disponibilités. Deux sessions par jour sont envisageables (2h le matin + 2h l'après-midi) en fonction des conditions et de la disponibilité.",
+    "t3": "Point de Rencontre",
+    "d31": "Rendez-vous à l'école pour l'équipement, suivi du déplacement vers le spot avec votre instructeur",
+    "t4": "Horaire de Rencontre",
+    "d41": "Déterminé en fonction des conditions météo optimales de la journée.",
+    "t5": "Équipement Complet de Kitesurf Inclus",
+    "d51": "Assurez-vous d'apporter des lunettes de soleil, de la crème solaire, une serviette de douche et une bouteille d'eau.",
+    "t6": "Encadrement Professionnel",
+    "d61": "Vous recevrez un briefing détaillé avant chaque session et un débriefing complet après, vous permettant de suivre votre progression."
+  },
+  "KiteLessonsSemi": {
+    "price": "à partir de €30",
+    "t": "Cours Semi-Privés",
+    "d1": "Ce forfait est prévu pour les duos, qu'ils soient composés de couples ou d'amis, souhaitant apprendre le kitesurf pour la première fois ou progresser. *Nous ne pouvons pas fournir un deuxième camarade de classe à une personne seule qui a réservé ce forfait.",
+    "t0": "Liste de Prix",
+    "d01": "1h (sans matériel)/€30",
+    "d02": "1h / €40",
+    "d03": "2h / €80",
+    "d04": "4h / €150",
+    "d05": "6h / €220",
+    "d06": "8h / €285",
+    "d07": "10h / €345",
+    "t1": "Durée d'une Session",
+    "d11": "2 heures",
+    "t2": "Sessions Additionnelles",
+    "d21": "Possibilité d'ajouter des sessions supplémentaires sur place selon les disponibilités. Deux sessions par jour sont envisageables (2h le matin + 2h l'après-midi) en fonction des conditions et de la disponibilité.",
+    "t3": "Point de Rencontre",
+    "d31": "Rendez-vous à l'école pour l'équipement, suivi du déplacement vers le spot avec votre instructeur",
+    "t4": "Horaire de Rencontre",
+    "d41": "Déterminé en fonction des conditions météo optimales de la journée.",
+    "t5": "Équipement Complet de Kitesurf Inclus",
+    "d51": "Assurez-vous d'apporter des lunettes de soleil, de la crème solaire, une serviette de douche et une bouteille d'eau.",
+    "t6": "Encadrement Professionnel",
+    "d61": "Vous recevrez un briefing détaillé avant chaque session et un débriefing complet après, vous permettant de suivre votre progression."
+  },
+  "KiteLessonsCol": {
+    "price": "à partir de €20",
+    "t": "Cours Collectif",
+    "d1": "Ce forfait est idéal pour ceux qui découvrent le kitesurf pour la première fois. Veuillez noter qu'il nécessite la présence d'un groupe dès le début, et nous ne pouvons pas ajouter un deuxième camarade de classe à une réservation individuelle.",
+    "t0": "Liste de Prix",
+    "d01": "1h (sans matériel)/€20",
+    "d02": "1h / €30",
+    "d03": "2h / €49",
+    "d04": "4h / €100",
+    "d05": "6h / €145",
+    "d06": "8h / €190",
+    "d07": "10h / €220",
+    "t1": "Durée d'une Session",
+    "d11": "2 heures",
+    "t2": "Sessions Additionnelles",
+    "d21": "Possibilité d'ajouter des sessions supplémentaires sur place selon les disponibilités. Deux sessions par jour sont envisageables (2h le matin + 2h l'après-midi) en fonction des conditions et de la disponibilité.",
+    "t3": "Point de Rencontre",
+    "d31": "Rendez-vous à l'école pour l'équipement, suivi du déplacement vers le spot avec votre instructeur",
+    "t4": "Horaire de Rencontre",
+    "d41": "Déterminé en fonction des conditions météo optimales de la journée.",
+    "t5": "Équipement Complet de Kitesurf Inclus",
+    "d51": "Assurez-vous d'apporter des lunettes de soleil, de la crème solaire, une serviette de douche et une bouteille d'eau.",
+    "t6": "Encadrement Professionnel",
+    "d61": "Vous recevrez un briefing détaillé avant chaque session et un débriefing complet après, vous permettant de suivre votre progression."
+  },
+  "SurfLessonsPrivate": {
+    "title": "Trouvez le forfait de surf adapté à votre niveau et à vos attentes pour vivre une aventure inoubliable sur les vagues de Dakhla et perfectionner vos compétences en surf.",
+    "price": "à partir de €30",
+    "t": "Cours Privés",
+    "d1": "Ce forfait répond aux besoins individuels des participants, offrant ainsi une expérience d'apprentissage sur mesure avec une attention personnalisée de la part de l'instructeur.",
+    "t0": "Liste de Prix",
+    "d01": "1h /€30",
+    "d02": "2h / €60",
+    "d03": "4h / €100",
+    "d04": "6h / €140",
+    "d05": "8h / €170",
+    "d06": "10h / €200",
+    "t1": "Durée d'une Session",
+    "d11": "2 heures",
+    "t2": "Sessions Additionnelles",
+    "d21": "Possibilité d'ajouter des sessions supplémentaires sur place selon les disponibilités. Deux sessions par jour sont envisageables (2h le matin + 2h l'après-midi) en fonction des conditions et de la disponibilité.",
+    "t3": "Point de Rencontre",
+    "d31": "Rendez-vous à l'école pour l'équipement, suivi du déplacement vers le spot avec votre instructeur",
+    "t4": "Horaire de Rencontre",
+    "d41": "Déterminé en fonction des conditions météo optimales de la journée.",
+    "t5": "Équipement Complet de Surf Inclus",
+    "d51": "Assurez-vous d'apporter des lunettes de soleil, de la crème solaire, une serviette de douche et une bouteille d'eau.",
+    "t6": "Encadrement Professionnel",
+    "d61": "Vous recevrez un briefing détaillé avant chaque session et un débriefing complet après, vous permettant de suivre votre progression."
+  },
+  "SurfLessonsSemi": {
+    "price": "à partir de €25",
+    "t": "Cours Semi-Privés",
+    "d1": "Ce forfait est conçu pour les duos voyageant ensemble et cherchant à découvrir le surf, que ce soit pour une première expérience ou pour perfectionner leurs compétences.",
+    "t0": "Liste de Prix",
+    "d01": "1h /€25",
+    "d02": "2h / €40",
+    "d03": "4h / €75",
+    "d04": "6h / €100",
+    "d05": "8h / €120",
+    "d06": "10h / €140",
+    "t1": "Durée d'une Session",
+    "d11": "2 heures",
+    "t2": "Sessions Additionnelles",
+    "d21": "Possibilité d'ajouter des sessions supplémentaires sur place selon les disponibilités. Deux sessions par jour sont envisageables (2h le matin + 2h l'après-midi) en fonction des conditions et de la disponibilité.",
+    "t3": "Point de Rencontre",
+    "d31": "Rendez-vous à l'école pour l'équipement, suivi du déplacement vers le spot avec votre instructeur",
+    "t4": "Horaire de Rencontre",
+    "d41": "Déterminé en fonction des conditions météo optimales de la journée.",
+    "t5": "Équipement Complet de Surf Inclus",
+    "d51": "Assurez-vous d'apporter des lunettes de soleil, de la crème solaire, une serviette de douche et une bouteille d'eau.",
+    "t6": "Encadrement Professionnel",
+    "d61": "Vous recevrez un briefing détaillé avant chaque session et un débriefing complet après, vous permettant de suivre votre progression."
+  },
+  "SurfLessonsCol": {
+    "price": "à partir de €15",
+    "t": "Cours Collectif",
+    "d1": " Ce forfait est parfait pour ceux qui souhaitent améliorer leurs compétences ou apprendre le surf au sein d'un groupe.",
+    "t0": "Liste de Prix",
+    "d01": "1h /€15",
+    "d02": "2h / €25",
+    "d03": "4h / €45",
+    "d04": "6h / €75",
+    "d05": "8h / €96",
+    "d06": "10h / €110",
+    "t1": "Durée d'une Session",
+    "d11": "2 heures",
+    "t2": "Sessions Additionnelles",
+    "d21": "Possibilité d'ajouter des sessions supplémentaires sur place selon les disponibilités. Deux sessions par jour sont envisageables (2h le matin + 2h l'après-midi) en fonction des conditions et de la disponibilité.",
+    "t3": "Point de Rencontre",
+    "d31": "Rendez-vous à l'école pour l'équipement, suivi du déplacement vers le spot avec votre instructeur",
+    "t4": "Horaire de Rencontre",
+    "d41": "Déterminé en fonction des conditions météo optimales de la journée.",
+    "t5": "Équipement Complet de Surf Inclus",
+    "d51": "Assurez-vous d'apporter des lunettes de soleil, de la crème solaire, une serviette de douche et une bouteille d'eau.",
+    "t6": "Encadrement Professionnel",
+    "d61": "Vous recevrez un briefing détaillé avant chaque session et un débriefing complet après, vous permettant de suivre votre progression."
+  },
+  "WindLessonsPrivate": {
+    "title": "Découvrez notre sélection complète de forfaits en wingfoil, parfaitement adaptés à tous les niveaux d'expertise. Choisissez le vôtre et commencez vos leçons de wingfoil dès aujourd'hui.",
+    "price": "à partir de €50",
+    "t": "Cours Privés",
+    "d1": "Les cours particuliers s'adressent aux personnes qui souhaitent bénéficier d'une attention individuelle de la part d'un professeur. Le contenu de la leçon est entièrement adapté à votre situation.",
+    "t0": "Liste de Prix",
+    "d01": "1h (sans matériel)/€50",
+    "d02": "1h / €80",
+    "d03": "2h / €150",
+    "d04": "4h / €280",
+    "d05": "6h / €400",
+    "d06": "8h / €515",
+    "d07": "10h / €610",
+    "t1": "Durée d'une Session",
+    "d11": "2 heures",
+    "t2": "Sessions Additionnelles",
+    "d21": "Possibilité d'ajouter des sessions supplémentaires sur place selon les disponibilités. Deux sessions par jour sont envisageables (2h le matin + 2h l'après-midi) en fonction des conditions et de la disponibilité.",
+    "t3": "Point de Rencontre",
+    "d31": "Rendez-vous à l'école pour l'équipement, suivi du déplacement vers le spot avec votre instructeur",
+    "t4": "Horaire de Rencontre",
+    "d41": "Déterminé en fonction des conditions météo optimales de la journée.",
+    "t5": "Équipement Complet de Windfoil Inclus",
+    "d51": "Assurez-vous d'apporter des lunettes de soleil, de la crème solaire, une serviette de douche et une bouteille d'eau.",
+    "t6": "Encadrement Professionnel",
+    "d61": "Vous recevrez un briefing détaillé avant chaque session et un débriefing complet après, vous permettant de suivre votre progression."
+  },
+  "WindLessonsSemi": {
+    "price": "à partir de €40",
+    "t": "Cours Semi-Privés",
+    "d1": " Ce forfait est prévu pour les duos, qu'ils soient composés de couples ou d'amis, souhaitant apprendre le Wingfoil pour la première fois ou progresser. *Nous ne pouvons pas fournir un deuxième camarade de classe à une personne seule qui a réservé ce forfait.",
+    "t0": "Liste de Prix",
+    "d01": "1h (sans matériel)/€40",
+    "d02": "1h / €60",
+    "d03": "2h / €100",
+    "d04": "4h / €190",
+    "d05": "6h / €270",
+    "d06": "8h / €340",
+    "d07": "10h / €410",
+    "t1": "Durée d'une Session",
+    "d11": "2 heures",
+    "t2": "Sessions Additionnelles",
+    "d21": "Possibilité d'ajouter des sessions supplémentaires sur place selon les disponibilités. Deux sessions par jour sont envisageables (2h le matin + 2h l'après-midi) en fonction des conditions et de la disponibilité.",
+    "t3": "Point de Rencontre",
+    "d31": "Rendez-vous à l'école pour l'équipement, suivi du déplacement vers le spot avec votre instructeur",
+    "t4": "Horaire de Rencontre",
+    "d41": "Déterminé en fonction des conditions météo optimales de la journée.",
+    "t5": "Équipement Complet de Windfoil Inclus",
+    "d51": "Assurez-vous d'apporter des lunettes de soleil, de la crème solaire, une serviette de douche et une bouteille d'eau.",
+    "t6": "Encadrement Professionnel",
+    "d61": "Vous recevrez un briefing détaillé avant chaque session et un débriefing complet après, vous permettant de suivre votre progression."
+  },
+  "WindLessonsCol": {
+    "price": "à partir de €30",
+    "t": "Cours Collectif",
+    "d1": " Ce forfait est parfait pour ceux qui souhaitent améliorer leurs compétences ou apprendre le wingfoil au sein d'un groupe.",
+    "t0": "Liste de Prix",
+    "d01": "1h (sans matériel)/€30",
+    "d02": "1h / €40",
+    "d03": "2h / €80",
+    "d04": "4h / €150",
+    "d05": "6h / €220",
+    "d06": "8h / €285",
+    "d07": "10h / €345",
+    "t1": "Durée d'une Session",
+    "d11": "2 heures",
+    "t2": "Sessions Additionnelles",
+    "d21": "Possibilité d'ajouter des sessions supplémentaires sur place selon les disponibilités. Deux sessions par jour sont envisageables (2h le matin + 2h l'après-midi) en fonction des conditions et de la disponibilité.",
+    "t3": "Point de Rencontre",
+    "d31": "Rendez-vous à l'école pour l'équipement, suivi du déplacement vers le spot avec votre instructeur",
+    "t4": "Horaire de Rencontre",
+    "d41": "Déterminé en fonction des conditions météo optimales de la journée.",
+    "t5": "Équipement Complet de Windfoil Inclus",
+    "d51": "Assurez-vous d'apporter des lunettes de soleil, de la crème solaire, une serviette de douche et une bouteille d'eau.",
+    "t6": "Encadrement Professionnel",
+    "d61": "Vous recevrez un briefing détaillé avant chaque session et un débriefing complet après, vous permettant de suivre votre progression."
+  },
+  "svg": {
+    "t1": "Kite Events",
+    "t2": "Réservation flexible",
+    "t3": "Guidance d'expert",
+    "t4": "Vent toute l'année",
+    "d1": "Participez à des événements communautaires pour le réseautage et des aventures aquatiques partagées.",
+    "d2": "Réservez facilement des cours et du matériel avec des options flexibles.",
+    "d3": "Apprenez auprès d'instructeurs certifiés IKO passionnés par les sports nautiques.",
+    "d4": "300 jours par an avec une vitesse du vent dépassant 10 nœuds (19 km/h)."
+  },
+  "GalleryPage": {
+    "description": "Explorez notre galerie remplie de joie, de rires et de moments inoubliables partagés par notre communauté passionnée par l'eau. Ces instantanés racontent l'histoire des bons moments que nous avons eus et de ceux qui vous attendent.",
+    "heading": "Galerie"
+  },
+  "Testimonials": {
+    "t1": "Une aventure Kitesurf inoubliable à Dakhla ! L'équipe était tellement sympa et souriante, ça a rendu tout magique. Un grand merci à Ayoub pour sa patience et ses conseils. J'ai trop hâte de replaner sur le lagon avec vous !",
+    "t2": "Expérience de fou à Dakhla ! J'ai pris deux-trois cours d'initiation au Kite et j'ai adoré. C'est carrément le paradis du lagon pour s'éclater en Kite !",
+    "t3": "Expérience fantastique avec Blüboarding ! Un grand merci à toute l'équipe qui a rendu notre semaine à Dakhla inoubliable. Mention spéciale pour la virée dans le désert – à couper le souffle !",
+    "t4": "Une super école de kite mobile avec des moniteurs top et à l'écoute. Votre truc de chasser les meilleurs spots du lagon de Dakhla, c'est juste génial. Merci, et à l'année prochaine pour de nouvelles sessions !",
+    "n1": "Imran Abdul",
+    "n2": "Lesley Spinder",
+    "n3": "Valentino Buccho",
+    "n4": "Mathilde Godin"
+  },
+  "BlogPage": {
+    "heading": "Blog",
+    "description": "Notre blog te fait voyager à Dakhla et dans tout le Maroc ! On raconte tout : les restos de fruits de mer au top, les trips dans le Sahara, et bien sûr, les actus kite. C'est comme si t'y étais ! Sur le blog, notre p'tite ville t'ouvre grand le Sud marocain. Viens lire, kiffer, et préparer ton aventure !"
+  },
+  "ContactPage": {
+    "heading": "Contact",
+    "description": "Vous avez des questions ou êtes prêt à réserver votre divertissement ? Contactez-nous ! Remplissez simplement le formulaire ci-dessous, et nous vous répondrons dans les plus brefs délais."
+  },
+  "booking": {
+    "t": "Réserver maintenant",
+    "name": "Nom complet",
+    "email": "E-mail",
+    "phone": "Entrer le numéro de téléphone",
+    "date": "Choisir une date",
+    "time": "Heure",
+    "lesson": "Sélectionner une leçon",
+    "people": "Sélectionner le nombre de participants",
+    "hours": "Sélectionner les heures (2h par session)",
+    "info": "Informations supplémentaires",
+    "person": "personne",
+    "people2": "personnes",
+    "hour": "heure",
+    "hour2": "heures",
+    "book": "Réservez maintenant",
+    "toast": "Réservation réussie",
+    "error": "Erreur lors de la réservation"
+  },
+  "Thanks": {
+    "t1": "Merci",
+    "t2": "Votre leçon a été réservée avec succès",
+    "t3": "Un reçu par e-mail incluant les détails de votre leçon vous a été envoyé. Veuillez le conserver pour vos dossiers.",
+    "t4": "Si vous avez des questions ou des préoccupations, n'hésitez pas à nous contacter à"
+  },
+  "Book": {
+    "Book": "Réservez"
+  },
+  "Metadata": {
+    "home": "Blüboarding | École de Kitesurf, Wingfoil et Surf à Dakhla, Maroc",
+    "homed": "Vivez l'aventure des sports nautiques avec Blüboarding à Dakhla, Maroc. Cours de kitesurf, wingfoil et surf par des instructeurs certifiés IKO, location d'équipement et excursions passionnantes. Réservez maintenant !",
+    "lessons": "Cours de Sports Nautiques à Dakhla | Kitesurf, Wingfoil, Surf | Blüboarding ",
+    "lessonsd": "Apprenez le kitesurf, le wingfoil ou le surf avec Blüboarding à Dakhla. Cours privés, semi-privés ou en groupe adaptés à votre niveau. Réservez votre expérience personnalisée dès aujourd'hui !",
+    "blog": "Aventures à Dakhla & Conseils Nautiques | Notre Blog | Blüboarding",
+    "blogd": "Plongez dans le blog Blüboarding pour tout savoir sur Dakhla et le Maroc. Découvrez les meilleurs restaurants, les aventures désertiques, les actualités du kitesurf et plus encore. Votre guide du paradis saharien !",
+    "kite": "Cours de Kitesurf à Dakhla | Leçons Privées et en Groupe | Blüboarding",
+    "kited": "Rejoignez Blüboarding pour des cours de kitesurf à Dakhla. Optez pour des sessions privées, semi-privées ou en groupe avec des instructeurs certifiés IKO. Parfait pour débutants et confirmés. Réservez votre place dès aujourd'hui !",
+    "surf": "Cours de Surf à Dakhla, Maroc | Débutants à Confirmés | Blüboarding",
+    "surfd": "Attrapez votre première vague ou améliorez votre technique avec les cours de surf de Blüboarding à Dakhla. Options privées, semi-privées et en groupe disponibles. Surfez avec nous !",
+    "wing": "Cours de Wingfoil à Dakhla | Privé, Semi-Privé & Groupe | Blüboarding",
+    "wingd": "Découvrez les cours de wingfoil chez Blüboarding à Dakhla. Profitez de leçons privées, semi-privées ou en groupe adaptées à votre niveau avec des instructeurs expérimentés. Réservez votre aventure en wingfoil maintenant !",
+    "about": "Aventures de Sports Nautiques à Dakhla | À Propos de Notre École | Blüboarding",
+    "aboutd": "Découvrez Blüboarding, une école de sports nautiques à Dakhla. Nous offrons des cours amusants de kitesurf, wingfoil et plus avec des instructeurs experts. Rejoignez-nous pour des aventures sur le lagon et les vagues de l'océan.",
+    "contact": "Réservez vos Activités Nautiques à Dakhla | Contactez-nous | Blüboarding",
+    "contactd": " Des questions ou envie de réserver vos cours de kitesurf, wingfoil ou surf ? Contactez Blüboarding via notre formulaire simple. Nous sommes là pour vous faire profiter des meilleurs sports nautiques à Dakhla."
+  },
+  "": {
+    "": ""
+  },
+  "": {
+    "": ""
+  }
+}
